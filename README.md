@@ -1,3 +1,6 @@
+# Weather App
+This is a simple weather app that uses the [OpenWeatherMap API](https://openweathermap.org/) to get the current weather for a city. It also uses the [GeoDB Cities API](https://rapidapi.com/wirefreethought/api/geodb-cities) to get the latitude and longitude of the city. The app is built using React. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
